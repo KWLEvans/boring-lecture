@@ -1,0 +1,22 @@
+h2.intro {
+  width: 50%;
+  color: #F32A5F;
+  font-family: sans-serif;
+  font-style: oblique;
+}
+
+p.intro {
+  font-size: .6em;
+  color: lightyellow;
+  font-family: cursive;
+  background-color: black;
+}
+
+img.intro {
+  border: 5px solid black;
+  margin: 50px;
+}
+
+body {
+  background-color: lightgray;
+}
